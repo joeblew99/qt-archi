@@ -1,30 +1,13 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-Assuming you have done a go get on this repo...
+WORK In PROGRESS !!!
 
 ## Setup
-get latest of therecipe/qt: 
-
-````
-cd $GOPATH/src/gitbub.com/therecipe/qt
-git pull
-go get -u -v github.com/therecipe/qt/cmd/...
-qtsetup
-````
+See ./setup.sh
 
 ## Run an Application
 
-From the folder with the application: 
-
-````
-# build
-qtdeploy build desktop
-
-# run
-.open ./deploy/darwin_minimal/application.app
-````
+See ./widget/application/*.sh
 
 
 ## Help
