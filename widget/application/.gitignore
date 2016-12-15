@@ -1,0 +1,8 @@
+# wilcards
+deploy
+*.cpp
+*.qrc
+
+# specific files
+cgo_main_wrapper.go
+rrc.go
